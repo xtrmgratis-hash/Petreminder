@@ -1,7 +1,5 @@
 
-<img width="698" height="508" alt="nouvelle interface" src="https://github.com/user-attachments/assets/7b2ddc12-52b1-4123-be7a-730e92dcdea6" />
-
-![2025-10-12 13-18-15 (2)](https://github.com/user-attachments/assets/18f114e3-1de0-45f9-9740-826d25cee0af)
+<img width="702" height="512" alt="temps" src="https://github.com/user-attachments/assets/236c00cb-926d-4496-97e2-c6187eef1921" />
 
 PetReminder – Rappel Familiers Dofus
 
