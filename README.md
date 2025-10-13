@@ -1,3 +1,4 @@
+[![Funny cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)](https://imgur.com/VHEfAs0)
 C’est une petite application qui vous aide à ne jamais oublier de nourrir vos familiers dans Dofus.
 
 Vous ajoutez vos familiers avec le temps entre chaque repas.
