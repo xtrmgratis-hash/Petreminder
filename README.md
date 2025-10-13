@@ -1,9 +1,11 @@
-[![Funny cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)](https://imgur.com/VHEfAs0)
+![2025-10-12 13-18-15 (2)](https://github.com/user-attachments/assets/18f114e3-1de0-45f9-9740-826d25cee0af)
+
 C’est une petite application qui vous aide à ne jamais oublier de nourrir vos familiers dans Dofus.
 
 Vous ajoutez vos familiers avec le temps entre chaque repas.
 
 Quand il est temps de nourrir un familier, une fenêtre pop-up s’affiche pour vous prévenir.
+
 
 Après avoir nourri le familier, vous cliquez sur “OK” et le compte à rebours recommence.
 
